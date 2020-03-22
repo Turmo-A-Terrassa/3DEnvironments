@@ -15,8 +15,11 @@ All the classmates have teamed up to create a 3D Environment in Unity.
 
 ### Designers
 
-+ Dani Ruiz: [GitHub]()
-+ Gerard Romeu: [GitHub]()
++ Dani Ruiz: [GitHub](https://github.com/xsiro)
++ Gerard Romeu: [GitHub](https://github.com/Gromeu2000)
++ Tomás Carreras: [GitHub](https://github.com/tomascarreras1000)
++ Albert Robles: [GitHub](https://github.com/Albertito029)
++ Pol Casaú: [Linkedin]( linkedin.com/in/alex-lopez-agudo-9777741a3) and [GitHub](https://github.com/Bullseye14)
 
 
 **Leads:**
@@ -49,9 +52,13 @@ All the classmates have teamed up to create a 3D Environment in Unity.
 
 ### QA
 
-+ 
++ Marc Gallardo: [Linkedin](https://www.linkedin.com/in/marc-gallardo-3ab9841a4) and [GitHub](https://github.com/Marchusky)
 +
 + 
+
+
+
+*Note: some of the people involved in the project have decided to not be mentioned on it*
 
 
 
