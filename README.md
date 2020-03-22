@@ -29,9 +29,6 @@ All the classmates have teamed up to create a 3D Environment in Unity.
 
 ### Artists
 
-+ 
-+
-
 
 **Leads:**
 
@@ -41,20 +38,19 @@ All the classmates have teamed up to create a 3D Environment in Unity.
 ### Developers
 
 + Marc Ariza: [Linkedin](https://www.linkedin.com/in/marc-ariza-0b2b431a2/) and [GitHub](https://github.com/MarcArizaAlborni)
-+
+
 
 
 **Leads:**
 
 + Guillem Turmo: [Linkedin](https://www.linkedin.com/mwlite/in/gturmo) and [GitHub](https://github.com/Turmo11)
-+ 
+
 
 
 ### QA
 
 + Marc Gallardo: [Linkedin](https://www.linkedin.com/in/marc-gallardo-3ab9841a4) and [GitHub](https://github.com/Marchusky)
-+
-+ 
+
 
 
 
