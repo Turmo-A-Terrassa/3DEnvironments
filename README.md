@@ -106,11 +106,11 @@ The map has 5 different zones with different themes:
 
  - City
  
-![Image](pictures/city.png)
+![Image](pictures/city.PNG)
  
  - Under Construction
  
- ![Image](pictures/under_construction.png)
+ ![Image](pictures/under_construction.PNG)
  
  - Tracks
  
