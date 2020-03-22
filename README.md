@@ -104,6 +104,10 @@ Afterwards, the producers had a meeting to discuss how to proceed. They decided 
 
 The map has 5 different zones with different themes:
 
+ - General Map
+
+![Image](pictures/general_map.PNG)
+
  - City
  
 ![Image](pictures/city.PNG)
@@ -114,14 +118,15 @@ The map has 5 different zones with different themes:
  
  - Tracks
  
- 
+ ![Image](pictures/tracks.PNG)
  
  - Countryside
  
- 
+ ![Image](pictures/contryside.PNG)
  
  - Highway
 
+![Image](pictures/highway.PNG)
 
 
 ### The Art behind it
@@ -135,31 +140,38 @@ With the references given, these are the props the Art team built:
 
  - Road
  
- 
+ ![Image](pictures/highway.PNG)
+
 
  - City
  
+ ![Image](pictures/prop_city1a.PNG)
  
- 
+ ![Image](pictures/prop_city1b.PNG)
+
+![Image](pictures/prop_city2.PNG)
+
+![Image](pictures/prop_city3.PNG)
+
  - Under Construction
  
- 
+ ![Image](pictures/props_under_construction.PNG)
  
  - Tracks
  
- 
+ ![Image](pictures/props_track.PNG)
  
  - Countryside
  
- 
+ ![Image](pictures/props_contryside.PNG)
  
  - Highway
 
-
+![Image](pictures/props_highway.PNG)
 
  - Others
 
-
+![Image](pictures/props_other.PNG)
 
 
 ### How it comes to reality
@@ -178,7 +190,6 @@ With the references given, these are the props the Art team built:
  - With the release provided, the QA team tested that the track worked fine and that it was playable whilst challenging
  - A list of improvements was provided
  - Given more time, all the required changes would have been made
-
 
 
 ***
@@ -209,6 +220,7 @@ With the references given, these are the props the Art team built:
  - Lead designers adapted their deadlines without asking the producers or warning beforehand; the calendar had to be rearranged. In addition, they weren’t available for most of the time
  - The Leads did not have a base on how to design the track and how to convey their ideas
  - A list of props was not provided
+ - The document was not specific enough, without any key buildings or generic assets. For example, localization of the props should have been added
  
 
 ### What could be improved in the Art phase
@@ -224,6 +236,13 @@ With the references given, these are the props the Art team built:
  - Leads did not have the base code for when they were expected to. When asked about this, they said they did not understand what they were asked for.
  - Producers had access to the tasks after the development was done.  They were neither informed about their course of action
  - Lead developers started working passed their deadline and adapted their deadlines without asking the producers or warning beforehand; the calendar had to be rearranged
+
+
+### What could be improved in the Production phase
+
+ - Producers should have been more strict about deadlines
+ - Producers should have been more strict about how the deliveries were made, giving a list of requirements to each team (for example, asking the Design Team for a list of props)
+ - The producers shouldn’t have been in contact with no-Leads
 
 
 ***
