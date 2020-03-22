@@ -99,10 +99,11 @@ The map has 5 different zones with different themes:
 
  - City
  
+![Image](pictures/city.png)
  
  - Under Construction
  
- 
+ ![Image](pictures/under_construction.png)
  
  - Tracks
  
