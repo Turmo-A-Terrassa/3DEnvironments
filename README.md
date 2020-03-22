@@ -29,6 +29,9 @@ All the classmates have teamed up to create a 3D Environment in Unity.
 
 ### Artists
 
++ Enric-G. Durán: [GitHub](https://github.com/EnricGDV)
++ Miquel Quintana: [GitHub](https://github.com/Leukino)
++ Òscar Tarrés: [GitHub](https://github.com/oscarta3)
 
 **Leads:**
 
@@ -44,7 +47,7 @@ All the classmates have teamed up to create a 3D Environment in Unity.
 **Leads:**
 
 + Guillem Turmo: [Linkedin](https://www.linkedin.com/mwlite/in/gturmo) and [GitHub](https://github.com/Turmo11)
-
++ Aitor Luque: [Linkedin](https://www.linkedin.com/in/aitor-luque-bodet-ab93a4175/) and [GitHub](https://github.com/Aitorlb7)
 
 
 ### QA
