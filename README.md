@@ -216,7 +216,7 @@ With the references given, these are the props the Art team built:
 
  - One of the parts of the course was not designed and the producers asked the Lead Designers to adapt the map, eliminating that part. This was not done, and there is a part of the course without assets.
  - Producers had the tasks around 3-4 days later than they asked for, and it was difficult to keep track of the process
- - Lead designers adapted their deadlines without asking the producers or warning beforehand; the calendar had to be rearranged. In addition, they weren’t available for most of the time
+ - Lead designers adapted their deadlines without asking the producers or warning beforehand; the calendar had to be rearranged. In addition, they weren’t available for most of the time, during days
  - The Leads did not have a base on how to design the track and how to convey their ideas
  - A list of props was not provided
  - The document was not specific enough, without any key buildings or generic assets. For example, localization of the props should have been added
