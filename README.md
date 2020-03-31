@@ -11,7 +11,7 @@ All the classmates have teamed up to create a 3D Environment in Unity.
 ### Producers
 
 + Adrián Mirabel: [Linkedin](https://www.linkedin.com/in/m1r4b3l/) and [GitHub](https://github.com/M1R4B3L)
-+ Núria Lamonja: [Linkedin](https://www.linkedin.com/in/n%C3%BAria-lamonja-i-pujol-b149271a2/) and [GitHub](https://github.com/Needlesslord)
++ Núria Lamonja: [Linkedin](https://www.linkedin.com/in/needlesslord) and [GitHub](https://github.com/Needlesslord)
 
 ### Designers
 
